@@ -1,0 +1,10 @@
+{
+    "token": "",
+    "Server": {
+        "channel": "ID DO CANAL",
+        "serverId": "ID DO SERVIDOR",
+        "serverIp": "IP DO SERVIDOR",
+        "serverPort": "PORTA DO SERVIDOR (PADRÃO 30120)",
+        "serverConnect": "CONNECT DO SERVIDOR"
+    }
+}
